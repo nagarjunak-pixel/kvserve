@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use or reference kvserve in LLM inference-serving research or capacity planning, please cite it as below."
+type: software
+title: "kvserve: Paged-KV LLM Serving Engine Simulator — PagedAttention Block Manager, Automatic Prefix Caching, Continuous Batching, Chunked Prefill & Roofline Cost Model"
+version: 1.0.0
+date-released: "2026-11-18"
+license: Apache-2.0
+url: "https://nagarjunak-pixel.github.io/"
+repository-code: "https://github.com/nagarjunak-pixel/kvserve"
+authors:
+  - family-names: "Kamireddy"
+    given-names: "Nagarjuna Reddy"
+    affiliation: "Suryagentic AI"
